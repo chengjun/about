@@ -493,6 +493,9 @@
               "@media (max-width: 767px)": {
                 "text-align": "center"
               }
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "text-align": "left"
             }
           },
           "_name": "header3",

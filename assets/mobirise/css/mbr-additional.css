@@ -1790,6 +1790,10 @@ body {
     text-align: center;
   }
 }
+.cid-rv31IiaBuS .mbr-text,
+.cid-rv31IiaBuS .mbr-section-btn {
+  text-align: left;
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #333333;
