@@ -1771,7 +1771,7 @@ body {
   color: #232323 !important;
 }
 .cid-rv31IiaBuS {
-  padding-top: 90px;
+  padding-top: 120px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/background4.jpg");
 }
@@ -1789,6 +1789,10 @@ body {
   .cid-rv31IiaBuS .mbr-text {
     text-align: center;
   }
+}
+.cid-rv31IiaBuS .mbr-text,
+.cid-rv31IiaBuS .mbr-section-btn {
+  text-align: left;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
