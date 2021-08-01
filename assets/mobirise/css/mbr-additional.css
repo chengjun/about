@@ -730,6 +730,11 @@ a {
   text-align: center;
   color: #ffffff;
 }
+.cid-sxfXjKoYJS .mbr-text,
+.cid-sxfXjKoYJS .mbr-section-btn {
+  text-align: center;
+  color: #fafafa;
+}
 .cid-sxfXqEAhwR {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -740,6 +745,12 @@ a {
   align: center;
   height: 2px;
   margin: 0 auto;
+}
+.cid-sxfXqEAhwR .mbr-text {
+  color: #bbbbbb;
+}
+.cid-sEOjcOI1Mc {
+  background-image: url("../../../assets/images/background9.jpg");
 }
 .cid-sxn0oeUorT {
   padding-top: 6rem;
